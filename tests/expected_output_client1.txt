@@ -1,0 +1,8 @@
+client 0: Hello, this is a test from client0.
+client 0: Sending multiple messages.
+client 0: Another message from client0.
+client 0: Message without newline at the endMessages with many
+client 0: newlines
+client 0: 
+client 0: here.
+server: client 0 just left

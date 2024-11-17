@@ -1,0 +1,3 @@
+#!/bin/bash
+
+cc -Wall -Wextra -Werror mini_serv.c -o tests/server
